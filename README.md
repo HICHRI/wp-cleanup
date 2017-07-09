@@ -1,0 +1,2 @@
+# wp-cleanup
+test plugin
